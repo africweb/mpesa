@@ -81,7 +81,7 @@
         <div class="media mt-4 pl-2">
           <img src="./images/1200px-M-PESA_LOGO-01.svg.png" class="mr-3" height="75" />
           <div class="media-body">
-          <img src="./images/mypickuppoint.png" class="mr-3" height="75" style="width: 10px;" />
+          <img src="./images/mypickuppoint.png" class="mr-3" height="75" style="width: 55px;" />
           </div>
         </div>
         <div class="media mt-3 pl-2">
