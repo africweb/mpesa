@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lipa na mpesa</title>
+    <title>Lipa na Mpesa MY Pick Up POint</title>
     <link
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
       rel="stylesheet"
@@ -74,9 +74,9 @@
     <div class="container d-flex justify-content-center">
       <div class="card mt-5 px-3 py-4">
         <div class="d-flex flex-row justify-content-around">
-          <div class="mpesa"><span>Mpesa </span></div>
-          <div><span>Paypal</span></div>
-          <div><span>Card</span></div>
+          <div class="mpesa"><span>Lipa delivary na Mpesa </span></div>
+          <!-- <div><span>Paypal</span></div>
+          <div><span>Card</span></div> -->
         </div>
         <div class="media mt-4 pl-2">
           <img src="./images/1200px-M-PESA_LOGO-01.svg.png" class="mr-3" height="75" />
@@ -99,7 +99,7 @@
                 </div>
              
                 <div class="col-12">
-                  <button type="submit" class="btn btn-success" name="submit" value="submit">Donate</button>
+                  <button type="submit" class="btn btn-success" name="submit" value="submit">PAY NOW</button>
                 </div>
               </form>
               <!--bs5 input-->
