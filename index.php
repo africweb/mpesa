@@ -89,8 +89,8 @@
 
             <form class="row g-3" action="./stk_initiate.php" method="POST">
             <div class="col-12">
-                  <label for="inputAddress" class="form-label">Order Number</label>
-                  <input type="text" class="form-control" name="number" placeholder="Enter Amount">
+                  <label for="inputAddress" class="form-label">Order ID Number</label>
+                  <input type="text" class="form-control" name="number" placeholder="Order ID Number">
                 </div>
                 <div class="col-12">
                   <label for="inputAddress" class="form-label">Amount</label>
