@@ -62,7 +62,7 @@
         font-size: 15px;
       }
       .mpesa {
-        background-color: green !important;
+        background-color: red !important;
       }
 
       img {
@@ -81,7 +81,7 @@
         <div class="media mt-4 pl-2">
           <img src="./images/1200px-M-PESA_LOGO-01.svg.png" class="mr-3" height="75" />
           <div class="media-body">
-            <h6 class="mt-1">Enter Amount & Number</h6>
+          <img src="./images/mypickuppoint.png" class="mr-3" height="75" />
           </div>
         </div>
         <div class="media mt-3 pl-2">
